@@ -31,12 +31,5 @@ public class MissoesModel {
     public MissoesModel() {
     }
 
-    public MissoesModel(Long id, String nome, String dificuldade) {
-        this.id = id;
-        this.nome = nome;
-        this.dificuldade = dificuldade;
-
-    }
-
 
 }
